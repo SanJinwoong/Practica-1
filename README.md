@@ -410,6 +410,7 @@ Continuación de la página de saludo mostrando:
 
 ## ✍️ Autor
 
+Creado por : Mendez Padron Gustavo Emanuel
 Proyecto académico - Curso de Laravel  
 Fecha: Noviembre 2024
 
